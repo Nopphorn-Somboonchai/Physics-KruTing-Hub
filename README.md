@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nopphorn31/physics-kruting-hub"><img src="https://img.shields.io/github/stars/nopphorn31/physics-kruting-hub?style=social" alt="Stars"></a>
+  <a href="https://github.com/Nopphorn-Somboonchai/physics-kruting-hub"><img src="https://img.shields.io/github/stars/nopphorn31/physics-kruting-hub?style=social" alt="Stars"></a>
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status">
   <img src="https://img.shields.io/badge/Platform-PWA%20Ready-blue" alt="Platform">
 </p>
